@@ -36,3 +36,23 @@ yarn create nuxt-app .
 > ? Continuous integration: None
 > ? Version control system: Git
 ```
+
+## nuxt2 起動
+
+セットアップ
+
+```
+sh setup.sh
+```
+
+起動
+
+```
+cd nuxt2
+
+yarn dev
+```
+
+ブラウザで以下にアクセス
+
+[http://localhost:3000/](http://localhost:3000/)
