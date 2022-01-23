@@ -41,6 +41,7 @@ yarn create nuxt-app .
 
 ```
 yarn add @nuxtjs/composition-api
+yarn add --dev eslint-plugin-prettier
 ```
 
 ## nuxt2 起動
@@ -62,3 +63,9 @@ yarn dev
 ブラウザで以下にアクセス
 
 [http://localhost:3000/](http://localhost:3000/)
+
+## コード自動整形 (手動実行)
+
+```
+yarn lintfix
+```
