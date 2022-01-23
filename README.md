@@ -37,6 +37,12 @@ yarn create nuxt-app .
 > ? Version control system: Git
 ```
 
+パッケージ追加
+
+```
+yarn add @nuxtjs/composition-api
+```
+
 ## nuxt2 起動
 
 セットアップ
